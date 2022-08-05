@@ -1,6 +1,23 @@
 img {
-    text-align:center;
+    border-radius: 7px;
 }
 body{
-background:url('FSI-Build-a-Portfolio\images\bowling_backg2.jpg') no-repeat;
+    background: linear-gradient(blue, pink);
+    font-family:'Gill Sans', 'Gill Sans MT', Papyrus, 'Trebuchet MS', sans-serif;
+}
+.middle {
+    text-align: center;
+}
+h3 {
+    color:dodgerblue;
+    text-decoration: underline;
+}
+hr {
+    text-decoration:coral dashed;
+}
+
+h1 {
+    font-family:cursive;
+    color: blue;
+    text-decoration-style:wavy;
 }
