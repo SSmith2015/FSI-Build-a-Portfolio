@@ -5,6 +5,7 @@ img {
 body {
     background: linear-gradient(blue, pink);
     font-family:'Gill Sans', 'Gill Sans MT', Papyrus, 'Trebuchet MS', sans-serif;
+    cursor: wait;
 }
 
 .middle {
@@ -16,7 +17,7 @@ h3 {
     text-decoration: underline;
 }
 
-hr {
+.fancy {
     text-decoration:coral dashed;
 }
 
@@ -25,3 +26,4 @@ h1 {
     color: blue;
     text-decoration-style:wavy;
 }
+ 
