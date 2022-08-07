@@ -1,18 +1,23 @@
 img {
     border-radius: 7px;
 }
-body{
+
+body {
     background: linear-gradient(blue, pink);
     font-family:'Gill Sans', 'Gill Sans MT', Papyrus, 'Trebuchet MS', sans-serif;
+    cursor: wait;
 }
+
 .middle {
     text-align: center;
 }
+
 h3 {
     color:dodgerblue;
     text-decoration: underline;
 }
-hr {
+
+.fancy {
     text-decoration:coral dashed;
 }
 
